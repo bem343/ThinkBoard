@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|d:\\sub projetos\\thinkboard\\thinkboard\\thinkboard\\elementos\\frmnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|solutionrelative:thinkboard\\elementos\\frmnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\thinkboard\\elementos\\frmnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|solutionrelative:thinkboard\\elementos\\frmnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\thinkboard\\classes\\funcoesgenericas_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|solutionrelative:thinkboard\\classes\\funcoesgenericas_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\thinkboard\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|solutionrelative:thinkboard\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\thinkboard\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E59E3-F363-471E-81D0-6442BF0C7F3F}|ThinkBoard\\ThinkBoard.csproj|solutionrelative:thinkboard\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "ThinkBoard\\frmPrincipal.cs",
+              "ToolTip": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\frmPrincipal.cs",
+              "RelativeToolTip": "ThinkBoard\\frmPrincipal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:24:49.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "ThinkBoard\\frmPrincipal.cs",
+              "ToolTip": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "ThinkBoard\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:11:23.781Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncoesGenericas_Form.cs",
+              "DocumentMoniker": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\Classes\\FuncoesGenericas_Form.cs",
+              "RelativeDocumentMoniker": "ThinkBoard\\Classes\\FuncoesGenericas_Form.cs",
+              "ToolTip": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\Classes\\FuncoesGenericas_Form.cs",
+              "RelativeToolTip": "ThinkBoard\\Classes\\FuncoesGenericas_Form.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:02:38.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNota.cs",
+              "DocumentMoniker": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\Elementos\\frmNota.cs",
+              "RelativeDocumentMoniker": "ThinkBoard\\Elementos\\frmNota.cs",
+              "ToolTip": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\Elementos\\frmNota.cs",
+              "RelativeToolTip": "ThinkBoard\\Elementos\\frmNota.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwDcBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:02:15.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNota.cs [Design]",
+              "DocumentMoniker": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\Elementos\\frmNota.cs",
+              "RelativeDocumentMoniker": "ThinkBoard\\Elementos\\frmNota.cs",
+              "ToolTip": "D:\\SUB PROJETOS\\ThinkBoard\\ThinkBoard\\ThinkBoard\\Elementos\\frmNota.cs [Design]",
+              "RelativeToolTip": "ThinkBoard\\Elementos\\frmNota.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:02:14.475Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

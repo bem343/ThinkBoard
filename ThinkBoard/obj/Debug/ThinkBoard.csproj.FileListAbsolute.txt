@@ -1,0 +1,11 @@
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\bin\Debug\ThinkBoard.exe.config
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\bin\Debug\ThinkBoard.exe
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\bin\Debug\ThinkBoard.pdb
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.csproj.AssemblyReference.cache
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.frmPrincipal.resources
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.Properties.Resources.resources
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.csproj.GenerateResource.cache
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.csproj.CoreCompileInputs.cache
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.exe
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.pdb
+D:\SUB PROJETOS\ThinkBoard\ThinkBoard\ThinkBoard\obj\Debug\ThinkBoard.Elementos.frmNota.resources
